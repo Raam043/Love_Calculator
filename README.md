@@ -2,7 +2,7 @@
 
 Directly you can run this app by using docker images pls visit my DcokerHub account => **[raam043](https://hub.docker.com/u/raam043)**
 ```sh
-docker run --name greetings -d -p 80:80 raam043/love-calculator
+docker run --name lovec -d -p 80:80 raam043/love-calculator
 ```
 
 Release linux server and install Jenkins and Docker
