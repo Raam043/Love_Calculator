@@ -40,3 +40,12 @@ docker run --name lovec -d -p 80:80 lovec
 Open New tab with `Server_Public_IP:`
 
 With Above commands Jenkins CICD can be made
+
+Output
+
+![image](https://user-images.githubusercontent.com/111989928/199226885-a36cbf2c-8c4d-4861-a980-24d6f803a280.png)
+
+![image](https://user-images.githubusercontent.com/111989928/199227589-e1060309-8d57-4b19-a34e-6777225bc49b.png)
+
+
+![image](https://user-images.githubusercontent.com/111989928/199226981-9d7ac919-73d2-4209-b813-4e316872deeb.png)
